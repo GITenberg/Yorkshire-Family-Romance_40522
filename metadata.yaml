@@ -1,0 +1,27 @@
+_repo: Yorkshire-Family-Romance_40522
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40522-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ross, Frederick
+    birthdate: 1816
+    deathdate: 1893
+    gutenberg_agent_id: '40674'
+    url: http://www.gutenberg.org/2009/agents/40674
+description: ''
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40522'
+  lccn: 03005539
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Yorkshire (England) -- Social life and customs'
+title: Yorkshire Family Romance
+url: http://www.gutenberg.org/ebooks/40522
